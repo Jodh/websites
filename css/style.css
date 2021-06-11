@@ -35,3 +35,7 @@ img {
     display: table;
     content:"";
 }
+
+.footer {
+    margin: 30px;
+}
